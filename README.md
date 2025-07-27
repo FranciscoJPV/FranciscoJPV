@@ -12,11 +12,7 @@
 
 ###
 
-<p align="left">Soy estudiante de Programación en el Instituto Profesional San Sebastián, con una gran pasión por la tecnología y un enfoque en el desarrollo de soluciones digitales eficientes. Mi objetivo es adquirir un dominio integral tanto en el desarrollo frontend como backend, aprendiendo de los proyectos y siguiendo las directrices para crear aplicaciones funcionales, escalables y de alto impacto. Me motiva el aprendizaje continuo de nuevas herramientas y frameworks, buscando siempre colaborar en equipo y enriquecer mi experiencia profesional.</p>
-
-###
-
-<p align="left">🌱 Siempre aprendiendo... En constante búsqueda de mejorar mis habilidades y conocimientos (¡"Estudea estudea"!)<br>🔍 Enfocado en... Dominar las tecnologías que he aprendido<br>🤝 Trabajo en equipo... Creo que la mejor forma de aprender es colaborar con otros desarrolladores<br>🚀 Próximo desafío... Trabajar en proyectos más complejos y escalar mis aplicaciones</p>
+<p align="left">Soy estudiante de Programación en el Instituto Profesional San Sebastián. Mi objetivo es aprender de los proyectos y directrices para crear aplicaciones funcionales, escalables y de alto impacto. Me motiva el aprendizaje continuo de nuevas herramientas y frameworks, mejorando mi experiencia profesional.</p>
 
 ###
 
