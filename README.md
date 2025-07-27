@@ -1,6 +1,4 @@
-<h1 align="left">Hola.👋 What's up?</h1>
 
-###
 
 <div align="left">
   <img height="100" src="https://allhacked.com/up/2019/03/hello-world.gif"  />
