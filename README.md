@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Soy estudiante de Programación en el Instituto Profesional San Sebastián. Mi objetivo es aprender de los proyectos y directrices para crear aplicaciones funcionales, escalables y de alto impacto. Me motiva el aprendizaje continuo de nuevas herramientas y frameworks, mejorando mi experiencia profesional.</p>
+<p align="left">Soy estudiante de Programación en el Instituto Profesional San Sebastián. Mi objetivo es aprender de los proyectos y directrices para crear aplicaciones funcionales, escalables y de alto impacto.</p>
 
 ###
 
